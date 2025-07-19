@@ -33,7 +33,7 @@ In this repository you will find:
 - clone the repository:
 
     ```
-    git clone https://github.com/AntonioCampanozzi/ICON_23-24.git
+    git clone https://github.com/AntonioCampanozzi/Machine-Learning-24-25.git
     ```
 - go into the directory:
     
