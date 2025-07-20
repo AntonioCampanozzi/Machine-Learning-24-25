@@ -38,7 +38,7 @@ In this repository you will find:
 - go into the directory:
     
     ```
-    cd ICON_23-24
+    cd Machine-Learning-24-25
     ```
 - create virtual environment:
 
